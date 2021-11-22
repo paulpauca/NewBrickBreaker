@@ -11,7 +11,7 @@ public class Main {
         JFrame obj = new JFrame();
         Gameplay gameplay = new Gameplay();
         obj.setBounds(10, 10, 700, 600);
-        obj.setTitle("Brick Breaker");
+        obj.setTitle("WFU Brick Breaker");
         obj.setResizable(false);
 
         obj.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
